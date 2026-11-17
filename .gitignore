@@ -1,0 +1,6 @@
+# Host observations and private findings are never committed.
+mesh-preflight*.txt
+*.UNREDACTED.*
+private/
+target/
+node_modules/
